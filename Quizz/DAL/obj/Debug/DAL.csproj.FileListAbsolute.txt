@@ -1,0 +1,60 @@
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll.config
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll.config
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll.config
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\DAL.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\DAL\obj\Debug\DAL.pdb

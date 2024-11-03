@@ -1,0 +1,208 @@
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe.config
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll.config
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Login.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.exe
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll.config
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminQuanLy.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAdd.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminSua.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoCauHoi.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddCauHoi.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaCauHoi.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.UserMain.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.QuizzQuesstion.resources
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.DapAn.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAdd.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddCauHoi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminQuanLy.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminSua.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaCauHoi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoCauHoi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Login.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.DapAn.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.QuizzQuesstion.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.UserMain.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.exe
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminDiemSV.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddMonThi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAdd.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddCauHoi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddMonThi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminDiemSV.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminQuanLy.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminSua.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaCauHoi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoCauHoi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Login.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.DapAn.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.QuizzQuesstion.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.UserMain.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.exe
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe.config
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll.config
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll.config
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAdd.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddCauHoi.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddMonThi.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminDiemSV.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminQuanLy.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminSua.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaCauHoi.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoCauHoi.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Login.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.DapAn.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.QuizzQuesstion.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.UserMain.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.exe
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoMonThi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaMonThi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaMonThi.resources
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoMonThi.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe.config
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.pdb
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.dll
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.pdb
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll.config
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.pdb
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll.config
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.xml
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAdd.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddCauHoi.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddMonThi.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminDiemSV.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminQuanLy.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminSua.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaCauHoi.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaMonThi.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoCauHoi.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoMonThi.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Login.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.DapAn.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.QuizzQuesstion.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.UserMain.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.exe
+D:\DoAnLapTrinhWinDows\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe.config
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.exe
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\GUI.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BUS.dll.config
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\DAL.dll.config
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAdd.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddCauHoi.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminAddMonThi.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminDiemSV.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminQuanLy.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.AdminSua.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaCauHoi.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminSuaMonThi.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoCauHoi.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.Admin.AdminTaoMonThi.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Login.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.DapAn.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.QuizzQuesstion.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.GUI.User_HocSinh.UserMain.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.csproj.Up2Date
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.exe
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\obj\Debug\GUI.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Memory.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Buffers.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Memory.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\GUI\bin\Debug\System.Buffers.xml

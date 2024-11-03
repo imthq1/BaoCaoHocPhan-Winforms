@@ -1,0 +1,272 @@
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll.config
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.Up2Date
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll.config
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.dll
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.pdb
+C:\Users\phong\Desktop\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll.config
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll.config
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll.config
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.pdb
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.Up2Date
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.dll
+C:\Users\phong\Desktop\bc\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll.config
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BUS.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.ComponentModel.Annotations.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\DAL.dll.config
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\EntityFramework.SqlServer.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Options.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Buffers.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Collections.Immutable.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.pdb
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Drawing.Common.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Memory.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Numerics.Vectors.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BLL.csproj.Up2Date
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.dll
+E:\visual code\BaoCaoWindow\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\obj\Debug\BUS.pdb
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\xamth\OneDrive\Máy tính\BaoCaoWindow\BaoCaoWindow\Quizz\BUS\bin\Debug\BCrypt.Net-Next.xml

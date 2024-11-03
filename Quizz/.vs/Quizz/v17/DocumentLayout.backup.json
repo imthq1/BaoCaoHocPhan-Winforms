@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A28F51D-AE3A-4DE6-8856-0477FF471E7C}|DAL\\DAL.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A28F51D-AE3A-4DE6-8856-0477FF471E7C}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96CAAF-B0A8-4A83-A2B5-34B9A1508483}|BUS\\BLL.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA96CAAF-B0A8-4A83-A2B5-34B9A1508483}|BUS\\BLL.csproj|solutionrelative:bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BLL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|c:\\users\\xamth\\onedrive\\m\u00E1y t\u00EDnh\\baocaowindow\\baocaowindow\\baocaowindow\\quizz\\gui\\gui\\admin\\adminquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminsua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminsua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminsua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminsua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96CAAF-B0A8-4A83-A2B5-34B9A1508483}|BUS\\BLL.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\bus\\taikhoanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA96CAAF-B0A8-4A83-A2B5-34B9A1508483}|BUS\\BLL.csproj|solutionrelative:bus\\taikhoanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\user-hocsinh\\dapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\user-hocsinh\\dapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\user-hocsinh\\dapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\user-hocsinh\\dapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\user-hocsinh\\usermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\user-hocsinh\\usermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\user-hocsinh\\quizzquesstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\user-hocsinh\\quizzquesstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminaddmonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminaddmonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\admindiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\admindiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminaddcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminaddcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\admintaomonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\admintaomonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\admintaocauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\admintaocauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminsuamonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminsuamonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminsuacauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminsuacauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminaddcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminaddcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminaddmonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminaddmonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A28F51D-AE3A-4DE6-8856-0477FF471E7C}|DAL\\DAL.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\dal\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A28F51D-AE3A-4DE6-8856-0477FF471E7C}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96CAAF-B0A8-4A83-A2B5-34B9A1508483}|BUS\\BLL.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\bus\\monhocservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA96CAAF-B0A8-4A83-A2B5-34B9A1508483}|BUS\\BLL.csproj|solutionrelative:bus\\monhocservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\user-hocsinh\\usermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\user-hocsinh\\usermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\admindiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\admindiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminsuamonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminsuamonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\admintaomonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\admintaomonthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminsua.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminsua.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminsuacauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminsuacauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\admintaocauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\admintaocauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\admin\\adminquanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\admin\\adminquanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\gui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\gui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\gui\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE6227-8AB6-48E7-849C-D8027BD46F0E}|GUI\\GUI.csproj|solutionrelative:gui\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96CAAF-B0A8-4A83-A2B5-34B9A1508483}|BUS\\BLL.csproj|c:\\users\\xamth\\onedrive\\m\u00E1y t\u00EDnh\\baocaowindow\\baocaowindow\\baocaowindow\\quizz\\bus\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141122131:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\DAL\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\DAL\\TaiKhoan.cs",
+              "RelativeToolTip": "DAL\\TaiKhoan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:30:31.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MonHocServices.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\MonHocServices.cs",
+              "RelativeDocumentMoniker": "BUS\\MonHocServices.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\MonHocServices.cs",
+              "RelativeToolTip": "BUS\\MonHocServices.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwIYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:15:29.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoanServices.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\TaiKhoanServices.cs",
+              "RelativeDocumentMoniker": "BUS\\TaiKhoanServices.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\TaiKhoanServices.cs",
+              "RelativeToolTip": "BUS\\TaiKhoanServices.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:12:21.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\App.Config",
+              "RelativeDocumentMoniker": "GUI\\App.Config",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\App.Config",
+              "RelativeToolTip": "GUI\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-01T03:09:56.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\App.Config",
+              "RelativeDocumentMoniker": "BUS\\App.Config",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\App.Config",
+              "RelativeToolTip": "BUS\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-01T03:09:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\BLL.csproj",
+              "RelativeDocumentMoniker": "BUS\\BLL.csproj",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\BUS\\BLL.csproj",
+              "RelativeToolTip": "BUS\\BLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T03:09:45.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminSuaMonThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaMonThi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminSuaMonThi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaMonThi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminSuaMonThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:31:03.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminTaoCauHoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoCauHoi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminTaoCauHoi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoCauHoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminTaoCauHoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:32:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminTaoMonThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoMonThi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminTaoMonThi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoMonThi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminTaoMonThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:31:19.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:06:50.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\UserMain.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\User-HocSinh\\UserMain.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\UserMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\User-HocSinh\\UserMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:25:44.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuizzQuesstion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\QuizzQuesstion.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\User-HocSinh\\QuizzQuesstion.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\QuizzQuesstion.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\User-HocSinh\\QuizzQuesstion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:50:59.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminQuanLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminQuanLy.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminQuanLy.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminQuanLy.cs [Design]",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:38:08.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminSuaCauHoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaCauHoi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminSuaCauHoi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaCauHoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminSuaCauHoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:32:13.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminSua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSua.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminSua.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSua.cs [Design]",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminSua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:36:13.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminDiemSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminDiemSV.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminDiemSV.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminDiemSV.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminDiemSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:57:58.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminAddMonThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddMonThi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminAddMonThi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddMonThi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminAddMonThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:31:00.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAddCauHoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddCauHoi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminAddCauHoi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddCauHoi.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminAddCauHoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:31:22.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAdd.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminAdd.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\Quizz\\GUI\\GUI\\Admin\\AdminAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:14:42.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DapAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\DapAn.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\User-HocSinh\\DapAn.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\DapAn.cs [Design]",
+              "RelativeToolTip": "GUI\\GUI\\User-HocSinh\\DapAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:51:10.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DapAn.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\DapAn.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\User-HocSinh\\DapAn.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\DapAn.cs",
+              "RelativeToolTip": "GUI\\GUI\\User-HocSinh\\DapAn.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgv1AAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:55:56.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminAddMonThi.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddMonThi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminAddMonThi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddMonThi.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminAddMonThi.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:08:06.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminTaoMonThi.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoMonThi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminTaoMonThi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoMonThi.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminTaoMonThi.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:17:13.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserMain.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\UserMain.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\User-HocSinh\\UserMain.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\User-HocSinh\\UserMain.cs",
+              "RelativeToolTip": "GUI\\GUI\\User-HocSinh\\UserMain.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAawGwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:53:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminAddCauHoi.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddCauHoi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminAddCauHoi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAddCauHoi.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminAddCauHoi.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:49:56.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminDiemSV.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminDiemSV.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminDiemSV.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminDiemSV.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminDiemSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:40:19.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminSuaMonThi.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaMonThi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminSuaMonThi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaMonThi.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminSuaMonThi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:28:36.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminAdd.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAdd.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminAdd.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAdd.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminAdd.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAewEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:41:47.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminAdd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAdd.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminAdd.Designer.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminAdd.Designer.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminAdd.Designer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAawK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:41:55.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminSua.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSua.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminSua.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSua.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminSua.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAArwFwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:44:36.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminSua.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSua.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminSua.Designer.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSua.Designer.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminSua.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:44:41.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminTaoCauHoi.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoCauHoi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminTaoCauHoi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminTaoCauHoi.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminTaoCauHoi.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAEwPkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:04:38.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminQuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminQuanLy.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminQuanLy.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminQuanLy.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminQuanLy.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAArwNUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:06:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminSuaCauHoi.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaCauHoi.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminSuaCauHoi.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminSuaCauHoi.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminSuaCauHoi.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:37:26.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:57:03.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Misc.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\Misc.cs",
+              "RelativeDocumentMoniker": "GUI\\Misc.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\Misc.cs",
+              "RelativeToolTip": "GUI\\Misc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:21:44.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Login.cs",
+              "RelativeToolTip": "GUI\\GUI\\Login.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAxwCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:47:05.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Login.Designer.cs",
+              "RelativeToolTip": "GUI\\GUI\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:02:16.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminQuanLy.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminQuanLy.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI\\Admin\\AdminQuanLy.Designer.cs",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\GUI\\GUI\\Admin\\AdminQuanLy.Designer.cs",
+              "RelativeToolTip": "GUI\\GUI\\Admin\\AdminQuanLy.Designer.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAawGMBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:06:54.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "C:\\Users\\xamth\\OneDrive\\M\u00E1y t\u00EDnh\\BaoCaoWindow\\BaoCaoWindow\\BaoCaoWindow\\Quizz\\DAL\\App.Config",
+              "RelativeToolTip": "DAL\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T15:31:27.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
