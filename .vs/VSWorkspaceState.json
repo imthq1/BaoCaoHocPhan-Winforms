@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Quizz",
+    "\\Quizz\\BUS",
     "\\Quizz\\GUI",
     "\\Quizz\\GUI\\GUI",
     "\\Quizz\\GUI\\GUI\\Admin"
   ],
-  "SelectedNode": "\\Quizz\\GUI\\GUI\\Admin\\AdminSua.cs",
+  "SelectedNode": "\\Quizz\\BUS\\App.Config",
   "PreviewInSolutionExplorer": false
 }

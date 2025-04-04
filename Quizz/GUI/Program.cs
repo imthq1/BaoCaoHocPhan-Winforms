@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-
 namespace GUI
 {
     internal static class Program

@@ -44,6 +44,7 @@
             this.DapAn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DapAn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.excel = new System.Windows.Forms.Button();
             this.cbfindAll = new System.Windows.Forms.CheckBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -66,9 +67,9 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Location = new System.Drawing.Point(29, 32);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox1.Size = new System.Drawing.Size(508, 117);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
@@ -79,7 +80,7 @@
             this.cmbMonHoc.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cmbMonHoc.FormattingEnabled = true;
             this.cmbMonHoc.Location = new System.Drawing.Point(98, 73);
-            this.cmbMonHoc.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbMonHoc.Margin = new System.Windows.Forms.Padding(2);
             this.cmbMonHoc.Name = "cmbMonHoc";
             this.cmbMonHoc.Size = new System.Drawing.Size(394, 21);
             this.cmbMonHoc.TabIndex = 3;
@@ -90,7 +91,7 @@
             this.cmbKhoa.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cmbKhoa.FormattingEnabled = true;
             this.cmbKhoa.Location = new System.Drawing.Point(98, 32);
-            this.cmbKhoa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbKhoa.Margin = new System.Windows.Forms.Padding(2);
             this.cmbKhoa.Name = "cmbKhoa";
             this.cmbKhoa.Size = new System.Drawing.Size(394, 21);
             this.cmbKhoa.TabIndex = 2;
@@ -129,7 +130,7 @@
             this.DapAn4,
             this.DapAn});
             this.dgv.Location = new System.Drawing.Point(29, 164);
-            this.dgv.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dgv.Margin = new System.Windows.Forms.Padding(2);
             this.dgv.Name = "dgv";
             this.dgv.RowHeadersWidth = 51;
             this.dgv.RowTemplate.Height = 24;
@@ -181,6 +182,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.excel);
             this.groupBox2.Controls.Add(this.cbfindAll);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.label4);
@@ -191,20 +193,29 @@
             this.groupBox2.Controls.Add(this.btnSua);
             this.groupBox2.Controls.Add(this.btnThem);
             this.groupBox2.Location = new System.Drawing.Point(554, 37);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox2.Size = new System.Drawing.Size(366, 112);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Chức Năng";
+            // 
+            // excel
+            // 
+            this.excel.Location = new System.Drawing.Point(269, 25);
+            this.excel.Name = "excel";
+            this.excel.Size = new System.Drawing.Size(72, 21);
+            this.excel.TabIndex = 0;
+            this.excel.Text = "Excel";
+            this.excel.Click += new System.EventHandler(this.excel_Click);
             // 
             // cbfindAll
             // 
             this.cbfindAll.AutoSize = true;
             this.cbfindAll.Cursor = System.Windows.Forms.Cursors.Hand;
             this.cbfindAll.Location = new System.Drawing.Point(7, 86);
-            this.cbfindAll.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbfindAll.Margin = new System.Windows.Forms.Padding(2);
             this.cbfindAll.Name = "cbfindAll";
             this.cbfindAll.Size = new System.Drawing.Size(73, 17);
             this.cbfindAll.TabIndex = 13;
@@ -235,7 +246,7 @@
             // txtfindName
             // 
             this.txtfindName.Location = new System.Drawing.Point(150, 89);
-            this.txtfindName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtfindName.Margin = new System.Windows.Forms.Padding(2);
             this.txtfindName.Name = "txtfindName";
             this.txtfindName.Size = new System.Drawing.Size(150, 20);
             this.txtfindName.TabIndex = 10;
@@ -254,7 +265,7 @@
             // txtFind
             // 
             this.txtFind.Location = new System.Drawing.Point(150, 54);
-            this.txtFind.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtFind.Margin = new System.Windows.Forms.Padding(2);
             this.txtFind.Name = "txtFind";
             this.txtFind.Size = new System.Drawing.Size(150, 20);
             this.txtFind.TabIndex = 8;
@@ -264,7 +275,7 @@
             // 
             this.Xoá.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Xoá.Location = new System.Drawing.Point(188, 25);
-            this.Xoá.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Xoá.Margin = new System.Windows.Forms.Padding(2);
             this.Xoá.Name = "Xoá";
             this.Xoá.Size = new System.Drawing.Size(56, 19);
             this.Xoá.TabIndex = 2;
@@ -275,7 +286,7 @@
             // 
             this.btnSua.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSua.Location = new System.Drawing.Point(102, 25);
-            this.btnSua.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSua.Margin = new System.Windows.Forms.Padding(2);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(56, 19);
             this.btnSua.TabIndex = 1;
@@ -287,7 +298,7 @@
             // 
             this.btnThem.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnThem.Location = new System.Drawing.Point(23, 25);
-            this.btnThem.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnThem.Margin = new System.Windows.Forms.Padding(2);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(56, 19);
             this.btnThem.TabIndex = 0;
@@ -321,7 +332,7 @@
             this.Controls.Add(this.groupBox1);
             this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "AdminTaoCauHoi";
@@ -365,5 +376,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn DapAn4;
         private System.Windows.Forms.DataGridViewTextBoxColumn DapAn;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button excel;
     }
 }

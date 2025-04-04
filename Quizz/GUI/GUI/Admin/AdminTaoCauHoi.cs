@@ -5,10 +5,13 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using ClosedXML.Excel;
 
 namespace GUI.GUI.Admin
 {
@@ -73,7 +76,7 @@ namespace GUI.GUI.Admin
                 dgv.Rows[index].Cells[4].Value = item.sCauTraLoi3;
                 dgv.Rows[index].Cells[5].Value = item.sCauTraLoi4;
                 dgv.Rows[index].Cells[6].Value = DapAnToString(item.iDapAn);
-                
+
 
             }
         }
@@ -87,7 +90,7 @@ namespace GUI.GUI.Admin
                     List<CauHoi> list = cauHoiServices.GetAllInMonHoc(selectedMonHoc.sMaMonHoc);
                     BindGrid(list);
                 }
-                
+
             }
             catch (Exception ex)
             {
@@ -152,7 +155,7 @@ namespace GUI.GUI.Admin
                         MonHoc selectedMonHoc = cmbMonHoc.SelectedItem as MonHoc;
                         if (selectedMonHoc != null)
                         {
-                            List<CauHoi> list = cauHoiServices.GetAllInMonHocFind(selectedMonHoc.sMaMonHoc,txtFind.Text);
+                            List<CauHoi> list = cauHoiServices.GetAllInMonHocFind(selectedMonHoc.sMaMonHoc, txtFind.Text);
                             BindGrid(list);
                         }
                     }
@@ -184,11 +187,11 @@ namespace GUI.GUI.Admin
                         MonHoc selectedMonHoc = cmbMonHoc.SelectedItem as MonHoc;
                         if (selectedMonHoc != null)
                         {
-                            List<CauHoi> list = cauHoiServices.GetAllInMonHocFindName(selectedMonHoc.sMaMonHoc,txtfindName.Text);
+                            List<CauHoi> list = cauHoiServices.GetAllInMonHocFindName(selectedMonHoc.sMaMonHoc, txtfindName.Text);
                             BindGrid(list);
                         }
                     }
-                    
+
                 }
                 catch (Exception ex)
                 {
@@ -204,7 +207,7 @@ namespace GUI.GUI.Admin
         private void cbfindAll_CheckedChanged(object sender, EventArgs e)
         {
             if (txtFind.Text != "")
-                txtFind_TextChanged(null,null);
+                txtFind_TextChanged(null, null);
             if (txtfindName.Text != "")
                 txtfindName_TextChanged(null, null);
         }
@@ -248,6 +251,90 @@ namespace GUI.GUI.Admin
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void excel_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                openFileDialog.Filter = "Excel Files|*.xls;*.xlsx";
+                openFileDialog.Title = "Chọn file Excel";
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    string filePath = openFileDialog.FileName;
+                    string monHoc = monHocServices.GetMaMonHoc(cmbMonHoc.Text);
+                    ImportExcel(filePath,monHoc);
+                }
+            }
+        }
+
+        private void ImportExcel(string filePath, string maMonHoc)
+        {
+            try
+            {
+                using (var workbook = new XLWorkbook(filePath))
+                {
+                    var worksheet = workbook.Worksheet(1); 
+                    int rowCount = worksheet.RowsUsed().Count(); 
+
+                    CauHoiServices cauHoiService = new CauHoiServices();
+
+                    for (int row = 2; row <= rowCount; row++) 
+                    {
+                  
+                        string noiDung = worksheet.Cell(row, 1).GetValue<string>(); 
+                        string dapAnA = worksheet.Cell(row, 2).GetValue<string>();
+                        string dapAnB = worksheet.Cell(row, 3).GetValue<string>();
+                        string dapAnC = worksheet.Cell(row, 4).GetValue<string>();
+                        string dapAnD = worksheet.Cell(row, 5).GetValue<string>();
+                        string dapAnDung = worksheet.Cell(row, 6).GetValue<string>();
+
+                        if (string.IsNullOrWhiteSpace(noiDung) || string.IsNullOrWhiteSpace(dapAnDung))
+                            continue; 
+
+                        int dapAnDungInt = ConvertDapAnToInt(dapAnDung);
+
+                   
+                        CauHoi cauHoi = new CauHoi
+                        {
+                            sMaMonHoc = maMonHoc,
+                            sNoiDungCauHoi = noiDung,
+                            sCauTraLoi1 = dapAnA,
+                            sCauTraLoi2 = dapAnB,
+                            sCauTraLoi3 = dapAnC,
+                            sCauTraLoi4 = dapAnD,
+                            iDapAn = dapAnDungInt
+                        };
+
+    
+                        bool isSuccess = cauHoiService.AddCauHoi(cauHoi);
+                        if (!isSuccess)
+                        {
+                            MessageBox.Show($"Lỗi khi thêm câu hỏi dòng {row}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                    }
+
+                    MessageBox.Show("Nhập dữ liệu từ Excel thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    LoadData();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi nhập dữ liệu: " + ex.Message + "\n" + ex.StackTrace, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private int ConvertDapAnToInt(string dapAn)
+        {
+            switch (dapAn.Trim().ToUpper())
+            {
+                case "A": return 1;
+                case "B": return 2;
+                case "C": return 3;
+                case "D": return 4;
+                default: return 0; 
+            }
         }
     }
 }
